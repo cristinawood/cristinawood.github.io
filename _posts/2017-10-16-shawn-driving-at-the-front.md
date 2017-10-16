@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: experiment
 ---
 ## A New Post
 
