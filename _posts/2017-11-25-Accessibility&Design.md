@@ -29,3 +29,7 @@ Williams, G. 2012 ‘Disability, Universal Design, and the Digital Humanities’
 
 WC3 Shared Web Experiences: Barriers Common to Mobile Device Users and People with Disabilities https://www.w3.org/WAI/mobile/experiences
 
+---
+layout: post
+published: true
+---
