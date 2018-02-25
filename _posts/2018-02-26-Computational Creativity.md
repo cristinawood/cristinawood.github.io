@@ -23,3 +23,9 @@ Issue 44. Digital Creativity in Archaeology Internet Archaeology http://intarch.
 Phillips, Amanda Feminism and procedural content generation: toward a collaborative politics of computational creativity http://dx.doi.org/10.1080/14626268.2016.1147469
 
 Procjam https://itch.io/jam/procjam
+
+--
+layout: post
+published: true
+--
+
