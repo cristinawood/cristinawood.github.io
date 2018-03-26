@@ -1,4 +1,5 @@
 
+Reflecting on open publishing processes this week has been very interesting and well-timed, given our class' work on Pressbooks. 
 
 **This week's readings:**
 Aesoph, Lauri and Amanda Coolidge. 2014. BC Open Textbook Authoring Guide: A Guide to Authoring & Adapting Open Textbooks BC Campus https://opentextbc.ca/opentextbook/part/main-body/
